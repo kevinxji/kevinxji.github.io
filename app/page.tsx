@@ -17,7 +17,7 @@ export default function Page() {
       </p>
       <p className="mb-4">
       {'If interested, feel free to reach out at kevinji@umich.edu'}
-      <a href="mailto:kevinji@umich.edu"></a>
+      {/* <a href="mailto:kevinji@umich.edu"></a> */}
       </p>
 
       {/* <img src={ profilepic.src}/> */}
