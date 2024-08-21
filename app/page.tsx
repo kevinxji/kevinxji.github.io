@@ -16,7 +16,7 @@ export default function Page() {
         {'I graduated from the University of Michigan with a BSE in Computer Science, summa cum laude'}
       </p>
       <p className="mb-4">
-      {'If interested, feel free to reach out at kevinji@umich.edu'}
+      {'To see some of my projects, please visit my GitHub (link is below). Note that a lot my projects are group projects or private that are not public on my profile. If interested, feel free to reach out at kevinji@umich.edu'}
       {/* <a href="mailto:kevinji@umich.edu"></a> */}
       </p>
 

@@ -1,4 +1,4 @@
-import { getBlogPosts } from 'app/blog/utils'
+import { getBlogPosts } from 'app/portfolio/utils'
 
 export const baseUrl = 'https://kevinxji.github.io/'
 
